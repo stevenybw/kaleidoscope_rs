@@ -1,0 +1,6 @@
+[package]
+name = "kaleidoscope_rs"
+version = "0.1.0"
+authors = ["Bowen Yu <stevenybw@hotmail.com>"]
+
+[dependencies]
